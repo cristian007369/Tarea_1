@@ -1,2 +1,2 @@
 # Tarea_1
-Verificar si que número es mayor 
+Verificar si un número es mayor 
